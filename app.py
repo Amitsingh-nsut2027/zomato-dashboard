@@ -59,3 +59,4 @@ Built by **Amit Singh** | B.Tech CSE, NSUT Delhi
 
 Open to collaborations on Data & ML projects. Feel free to reach out!
 """)
+st.caption("© 2026 Amit Singh | MIT License | NSUT Delhi")
