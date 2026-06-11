@@ -48,3 +48,14 @@ st.plotly_chart(fig3, use_container_width=True)
 
 st.subheader("Restaurant Data")
 st.dataframe(df[['name', 'location', 'rate', 'cost_for_two', 'cuisines']].reset_index(drop=True))
+
+st.divider()
+st.subheader("Let's Connect")
+st.markdown("""
+Built by **Amit Singh** | B.Tech CSE, NSUT Delhi  
+
+📧 [amit.singh.ug23@gmail.com](mailto:amit.singh.ug23@gmail.com) 
+🐙 [GitHub](https://github.com/Amitsingh-nsut2027)  
+
+Open to collaborations on Data & ML projects. Feel free to reach out!
+""")
